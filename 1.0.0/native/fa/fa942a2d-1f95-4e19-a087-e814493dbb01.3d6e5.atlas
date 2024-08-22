@@ -1,0 +1,13 @@
+
+bs1.jpg
+size: 57,57
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mtp_vfx_f_screen
+  rotate: false
+  xy: 1, 1
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

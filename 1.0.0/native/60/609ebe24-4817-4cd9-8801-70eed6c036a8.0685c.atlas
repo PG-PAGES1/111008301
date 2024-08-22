@@ -1,0 +1,118 @@
+
+bs2.jpg
+size: 245,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ib_vfx_g_screen
+  rotate: false
+  xy: 1, 197
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_00
+  rotate: false
+  xy: 1, 125
+  size: 71, 29
+  orig: 270, 125
+  offset: 99, 49
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_01
+  rotate: false
+  xy: 1, 1
+  size: 78, 38
+  orig: 270, 125
+  offset: 96, 43
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_02
+  rotate: true
+  xy: 107, 122
+  size: 79, 39
+  orig: 270, 125
+  offset: 96, 43
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_03
+  rotate: true
+  xy: 186, 85
+  size: 79, 39
+  orig: 270, 125
+  offset: 96, 43
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_04
+  rotate: true
+  xy: 1, 41
+  size: 79, 39
+  orig: 270, 125
+  offset: 96, 44
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_05
+  rotate: true
+  xy: 187, 166
+  size: 78, 40
+  orig: 270, 125
+  offset: 97, 44
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_06
+  rotate: true
+  xy: 148, 121
+  size: 80, 36
+  orig: 270, 125
+  offset: 97, 48
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_07
+  rotate: true
+  xy: 83, 41
+  size: 79, 38
+  orig: 270, 125
+  offset: 98, 48
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_08
+  rotate: false
+  xy: 1, 156
+  size: 79, 39
+  orig: 270, 125
+  offset: 99, 48
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_09
+  rotate: false
+  xy: 107, 203
+  size: 78, 41
+  orig: 270, 125
+  offset: 100, 48
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_10
+  rotate: true
+  xy: 42, 45
+  size: 78, 39
+  orig: 270, 125
+  offset: 102, 51
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_11
+  rotate: true
+  xy: 123, 40
+  size: 79, 38
+  orig: 270, 125
+  offset: 101, 54
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_12
+  rotate: false
+  xy: 81, 4
+  size: 75, 34
+  orig: 270, 125
+  offset: 105, 58
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_13
+  rotate: false
+  xy: 158, 5
+  size: 63, 33
+  orig: 270, 125
+  offset: 118, 60
+  index: -1
+mtp_add_particle_unpack/mtp_vfx_b_screen_14
+  rotate: false
+  xy: 163, 50
+  size: 53, 33
+  orig: 270, 125
+  offset: 127, 60
+  index: -1

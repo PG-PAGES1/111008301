@@ -1,0 +1,335 @@
+
+freebackground.jpg
+size: 924,924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/sd_vfx_a_screen_00
+  rotate: false
+  xy: 590, 371
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_01
+  rotate: false
+  xy: 750, 371
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_02
+  rotate: false
+  xy: 2, 261
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_03
+  rotate: false
+  xy: 162, 260
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_04
+  rotate: false
+  xy: 322, 260
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_05
+  rotate: false
+  xy: 482, 249
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_06
+  rotate: false
+  xy: 642, 249
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_07
+  rotate: true
+  xy: 802, 211
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_08
+  rotate: false
+  xy: 2, 139
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_09
+  rotate: false
+  xy: 162, 138
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_10
+  rotate: false
+  xy: 322, 138
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_11
+  rotate: false
+  xy: 482, 127
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_12
+  rotate: false
+  xy: 642, 127
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_13
+  rotate: true
+  xy: 802, 51
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_14
+  rotate: false
+  xy: 2, 17
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_15
+  rotate: false
+  xy: 162, 16
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_16
+  rotate: false
+  xy: 322, 16
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+1/sd_vfx_a_screen_17
+  rotate: false
+  xy: 482, 5
+  size: 158, 120
+  orig: 158, 158
+  offset: 0, 38
+  index: -1
+fspin_vfx_b_screen
+  rotate: false
+  xy: 35, 883
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_00
+  rotate: false
+  xy: 113, 731
+  size: 145, 97
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_01
+  rotate: false
+  xy: 711, 826
+  size: 145, 96
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_02
+  rotate: false
+  xy: 417, 827
+  size: 145, 95
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_03
+  rotate: false
+  xy: 564, 827
+  size: 145, 95
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_04
+  rotate: false
+  xy: 127, 830
+  size: 143, 92
+  orig: 270, 109
+  offset: 2, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_05
+  rotate: false
+  xy: 272, 829
+  size: 143, 93
+  orig: 270, 109
+  offset: 2, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_06
+  rotate: false
+  xy: 260, 725
+  size: 142, 102
+  orig: 270, 109
+  offset: 3, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_07
+  rotate: false
+  xy: 404, 722
+  size: 141, 103
+  orig: 270, 109
+  offset: 4, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_08
+  rotate: false
+  xy: 547, 716
+  size: 141, 109
+  orig: 270, 109
+  offset: 4, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_09
+  rotate: true
+  xy: 2, 749
+  size: 132, 109
+  orig: 270, 109
+  offset: 13, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_10
+  rotate: false
+  xy: 690, 715
+  size: 133, 109
+  orig: 270, 109
+  offset: 12, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_11
+  rotate: false
+  xy: 2, 620
+  size: 136, 109
+  orig: 270, 109
+  offset: 9, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_12
+  rotate: false
+  xy: 140, 614
+  size: 138, 109
+  orig: 270, 109
+  offset: 7, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_13
+  rotate: false
+  xy: 280, 611
+  size: 138, 109
+  orig: 270, 109
+  offset: 7, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_14
+  rotate: false
+  xy: 420, 605
+  size: 139, 109
+  orig: 270, 109
+  offset: 6, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_15
+  rotate: false
+  xy: 561, 604
+  size: 140, 109
+  orig: 270, 109
+  offset: 5, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_16
+  rotate: false
+  xy: 703, 604
+  size: 140, 109
+  orig: 270, 109
+  offset: 5, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_17
+  rotate: false
+  xy: 2, 503
+  size: 139, 109
+  orig: 270, 109
+  offset: 6, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_18
+  rotate: false
+  xy: 143, 500
+  size: 139, 109
+  orig: 270, 109
+  offset: 6, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_19
+  rotate: false
+  xy: 284, 494
+  size: 143, 109
+  orig: 270, 109
+  offset: 2, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_20
+  rotate: false
+  xy: 429, 493
+  size: 142, 109
+  orig: 270, 109
+  offset: 3, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_21
+  rotate: false
+  xy: 573, 493
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_22
+  rotate: false
+  xy: 720, 493
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_23
+  rotate: false
+  xy: 2, 389
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_24
+  rotate: false
+  xy: 149, 383
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_25
+  rotate: false
+  xy: 296, 382
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+hand_particle_unpack/ab_main_vfx_a_screen_26
+  rotate: false
+  xy: 443, 382
+  size: 145, 109
+  orig: 270, 109
+  offset: 0, 0
+  index: -1
+scat_vfx_d_screen
+  rotate: false
+  xy: 2, 891
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

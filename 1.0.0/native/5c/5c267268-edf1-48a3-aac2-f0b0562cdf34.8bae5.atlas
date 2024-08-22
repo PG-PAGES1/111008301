@@ -1,0 +1,27 @@
+
+fx_scatter.jpg
+size: 333,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fspin_vfx_b_screen
+  rotate: true
+  xy: 2, 2
+  size: 179, 77
+  orig: 179, 77
+  offset: 0, 0
+  index: -1
+scat_vfx_b_screen
+  rotate: true
+  xy: 81, 9
+  size: 172, 123
+  orig: 172, 123
+  offset: 0, 0
+  index: -1
+scat_vfx_c_screen
+  rotate: false
+  xy: 206, 56
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

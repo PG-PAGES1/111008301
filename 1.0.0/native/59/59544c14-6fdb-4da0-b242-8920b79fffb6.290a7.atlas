@@ -1,0 +1,241 @@
+
+freegameend.png
+size: 444,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button
+  rotate: true
+  xy: 382, 188
+  size: 254, 60
+  orig: 254, 60
+  offset: 0, 0
+  index: -1
+fasd
+  rotate: false
+  xy: 2, 145
+  size: 378, 297
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+
+freegameend.jpg
+size: 988,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+50/tw_vfx_d_screen_00
+  rotate: true
+  xy: 287, 613
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_01
+  rotate: true
+  xy: 558, 496
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_02
+  rotate: true
+  xy: 2, 405
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_03
+  rotate: true
+  xy: 273, 366
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_04
+  rotate: true
+  xy: 544, 249
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_05
+  rotate: true
+  xy: 2, 158
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_06
+  rotate: true
+  xy: 273, 119
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_07
+  rotate: true
+  xy: 544, 2
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+b/tw_vfx_c_add_04
+  rotate: true
+  xy: 631, 743
+  size: 243, 285
+  orig: 247, 298
+  offset: 4, 10
+  index: -1
+b/tw_vfx_c_add_08
+  rotate: true
+  xy: 2, 652
+  size: 244, 283
+  orig: 247, 298
+  offset: 3, 10
+  index: -1
+fs_hover_light
+  rotate: false
+  xy: 318, 860
+  size: 311, 126
+  orig: 311, 126
+  offset: 0, 0
+  index: -1
+mtp_vfx_a_screen
+  rotate: false
+  xy: 101, 923
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+mtp_vfx_f_screen
+  rotate: false
+  xy: 44, 931
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+mtp_vfx_g_screen
+  rotate: false
+  xy: 228, 898
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+mult_vfx_h_screen
+  rotate: false
+  xy: 2, 947
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+
+freegameend2.jpg
+size: 938,938
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b/tw_vfx_c_add_09
+  rotate: true
+  xy: 649, 60
+  size: 247, 285
+  orig: 247, 298
+  offset: 0, 12
+  index: -1
+b/tw_vfx_c_add_10
+  rotate: true
+  xy: 649, 309
+  size: 247, 287
+  orig: 247, 298
+  offset: 0, 11
+  index: -1
+fff
+  rotate: false
+  xy: 2, 117
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+tw_bg_c_screen
+  rotate: false
+  xy: 382, 151
+  size: 265, 405
+  orig: 265, 405
+  offset: 0, 0
+  index: -1
+tw_vfx_a_add
+  rotate: true
+  xy: 382, 558
+  size: 378, 394
+  orig: 378, 394
+  offset: 0, 0
+  index: -1
+
+freegameend3.jpg
+size: 821,821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+50/tw_vfx_d_screen_08
+  rotate: false
+  xy: 500, 550
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_09
+  rotate: false
+  xy: 500, 279
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_10
+  rotate: false
+  xy: 251, 2
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+50/tw_vfx_d_screen_11
+  rotate: false
+  xy: 498, 2
+  size: 245, 269
+  orig: 259, 277
+  offset: 0, 5
+  index: -1
+b/tw_vfx_c_add_07
+  rotate: false
+  xy: 2, 539
+  size: 247, 280
+  orig: 247, 298
+  offset: 0, 10
+  index: -1
+b/tw_vfx_c_add_13
+  rotate: false
+  xy: 251, 273
+  size: 247, 270
+  orig: 247, 298
+  offset: 0, 11
+  index: -1
+b/tw_vfx_c_add_14
+  rotate: false
+  xy: 251, 545
+  size: 247, 274
+  orig: 247, 298
+  offset: 0, 10
+  index: -1
+b/tw_vfx_c_add_15
+  rotate: false
+  xy: 2, 259
+  size: 247, 278
+  orig: 247, 298
+  offset: 0, 10
+  index: -1
+b/tw_vfx_c_add_16
+  rotate: false
+  xy: 2, 11
+  size: 247, 246
+  orig: 247, 298
+  offset: 0, 10
+  index: -1

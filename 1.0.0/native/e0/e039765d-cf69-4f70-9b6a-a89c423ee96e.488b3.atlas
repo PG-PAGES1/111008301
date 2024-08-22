@@ -1,0 +1,227 @@
+
+freegamestart.png
+size: 679,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_start_coin
+  rotate: true
+  xy: 1, 1
+  size: 378, 479
+  orig: 378, 819
+  offset: 0, 174
+  index: -1
+fs_start_coinpile
+  rotate: true
+  xy: 482, 1
+  size: 378, 196
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+
+freegamestart.jpg
+size: 850,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/tw_vfx_c_add_04
+  rotate: true
+  xy: 275, 746
+  size: 244, 287
+  orig: 247, 298
+  offset: 3, 9
+  index: -1
+2/tw_vfx_c_add_08
+  rotate: true
+  xy: 564, 745
+  size: 245, 285
+  orig: 247, 298
+  offset: 2, 9
+  index: -1
+50/tw_vfx_d_screen_00
+  rotate: true
+  xy: 1, 654
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_01
+  rotate: true
+  xy: 274, 498
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_02
+  rotate: true
+  xy: 547, 497
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_03
+  rotate: true
+  xy: 1, 406
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_04
+  rotate: true
+  xy: 274, 250
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_05
+  rotate: true
+  xy: 547, 249
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_06
+  rotate: true
+  xy: 1, 158
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_07
+  rotate: true
+  xy: 274, 2
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_08
+  rotate: true
+  xy: 547, 1
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+gold_vfx_a_add
+  rotate: false
+  xy: 43, 940
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+mtp_vfx_g_screen
+  rotate: false
+  xy: 95, 902
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+mult_vfx_h_screen
+  rotate: false
+  xy: 1, 951
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+wh_vfx_d_add
+  rotate: false
+  xy: 185, 902
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+
+freegamestart2.jpg
+size: 863,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/tw_vfx_c_add_07
+  rotate: true
+  xy: 1, 499
+  size: 247, 282
+  orig: 247, 298
+  offset: 0, 9
+  index: -1
+2/tw_vfx_c_add_09
+  rotate: true
+  xy: 285, 499
+  size: 247, 287
+  orig: 247, 298
+  offset: 0, 11
+  index: -1
+2/tw_vfx_c_add_10
+  rotate: true
+  xy: 574, 499
+  size: 247, 288
+  orig: 247, 298
+  offset: 0, 10
+  index: -1
+2/tw_vfx_c_add_13
+  rotate: true
+  xy: 1, 250
+  size: 247, 272
+  orig: 247, 298
+  offset: 0, 10
+  index: -1
+2/tw_vfx_c_add_14
+  rotate: true
+  xy: 275, 250
+  size: 247, 276
+  orig: 247, 298
+  offset: 0, 9
+  index: -1
+2/tw_vfx_c_add_15
+  rotate: true
+  xy: 553, 250
+  size: 247, 280
+  orig: 247, 298
+  offset: 0, 9
+  index: -1
+2/tw_vfx_c_add_16
+  rotate: true
+  xy: 1, 1
+  size: 247, 248
+  orig: 247, 298
+  offset: 0, 9
+  index: -1
+50/tw_vfx_d_screen_09
+  rotate: true
+  xy: 1, 748
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_10
+  rotate: true
+  xy: 274, 748
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+50/tw_vfx_d_screen_11
+  rotate: true
+  xy: 547, 748
+  size: 246, 271
+  orig: 259, 277
+  offset: 0, 4
+  index: -1
+
+freegamestart3.jpg
+size: 821,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_bg
+  rotate: true
+  xy: 1, 381
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+tw_vfx_a_add
+  rotate: true
+  xy: 1, 1
+  size: 378, 394
+  orig: 378, 394
+  offset: 0, 0
+  index: -1
